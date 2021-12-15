@@ -1,0 +1,1 @@
+Try to manually create a .txt file with some text, open it using ifstream like me, and then write the name of the file variable in getline instead of cin.
